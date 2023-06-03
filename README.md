@@ -1,3 +1,6 @@
+![Screenshot](Email_Header_Analysis.png)
+
+
 # Email Analysis Tool
 
 Author: [Jeret Christopher@M0du5](https://github.com/jeretc)
